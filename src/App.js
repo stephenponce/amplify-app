@@ -8,6 +8,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+	  This is a demo app using AWS Amplify & Github to build & deploy.
+        </p>
+        <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
